@@ -1,0 +1,7 @@
+path: E:/hf2026-yolo-data
+train:
+  - raw/run_01/images
+  - raw/run_02/images
+val: raw/run_03/images
+names:
+  0: TargetVehicle
